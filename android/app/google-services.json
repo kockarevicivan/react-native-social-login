@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "607229683481",
+    "firebase_url": "https://exim-833f9.firebaseio.com",
+    "project_id": "exim-833f9",
+    "storage_bucket": "exim-833f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607229683481:android:274001983373dfe7",
+        "android_client_info": {
+          "package_name": "com.exim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607229683481-0a8t6k4ikvv2073oaj0ogv3onfc3d3e7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCg-FEI_NVoayfZtVnflQ_TAC7qMB0jYg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

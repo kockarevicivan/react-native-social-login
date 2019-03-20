@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>607229683481-sc34eh2kpgalosh73c9nd7jh2eq4oddt.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.607229683481-sc34eh2kpgalosh73c9nd7jh2eq4oddt</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAQS1OyYlEb3_Q-c1XEhDnbFMpi3MBGjPI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>607229683481</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nbmdigital.exim</string>
+	<key>PROJECT_ID</key>
+	<string>exim-833f9</string>
+	<key>STORAGE_BUCKET</key>
+	<string>exim-833f9.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:607229683481:ios:410f6483b4db2f55</string>
+	<key>DATABASE_URL</key>
+	<string>https://exim-833f9.firebaseio.com</string>
+</dict>
+</plist>
